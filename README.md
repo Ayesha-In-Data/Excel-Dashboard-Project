@@ -1,9 +1,9 @@
 # Excel-Dashboard-Project
 The project involved working with a dataset of bike sales, which included detailed customer information such as marital status, gender, income, education, occupation, region, age, and commute distance.
 
+
 Project Tasks and Operations:
 
-The primary objective was to clean the data and create an insightful sales dashboard. Below are the key steps and operations performed:
 
 1.Data Cleaning:
 
@@ -20,6 +20,17 @@ The primary objective was to clean the data and create an insightful sales dashb
 -Modified charts, utilizing clustered column charts, line charts, and line charts with markers for clear data visualization.
 -Created a comprehensive sales dashboard.
 
-Meaningfulness of the Excel Dashboard:
 
-The Excel dashboard is a powerful tool for analyzing sales data. It offers clear visualizations of trends across customer segments like gender, age, and commute distance, helping identify key demographics and purchasing behaviors. Slicers enable quick filtering for targeted analysis, making it easier to make data-driven decisions. The visualizations simplify complex data, aiding effective communication with stakeholders. Overall, the dashboard supports informed business decisions, from inventory management to product offerings and customer engagement strategies.
+Key findings from the analysis:
+
+1. Income and Gender Dynamics:
+Males with higher average incomes ($60,124) are more likely to purchase bikes compared to females ($55,774).
+Potential strategy: Target high-income customers across genders with premium bike offerings.
+
+2. Commute Distance Impact:
+Highest number of bike purchases among customers with 0-1 mile commutes (200 purchases).
+Idea: Market bikes as a convenient option for short urban commutes.
+
+3. Age Group Preferences:
+Middle-aged customers (31-54) dominate purchases (383) compared to adolescents (39) and older customers (59).
+Opportunity: Tailor marketing and product designs to meet middle-aged customer needs.
